@@ -1,1 +1,1 @@
-web: pip install . -U && testGitHub-run
+web: pip install . -U && testteeeeee-run
